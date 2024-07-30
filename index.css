@@ -43,32 +43,32 @@ header{
 @keyframes change {
     0%{
         opacity: 1;
-        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c), url('/slider/slider-1.jpg');
+        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c), url('./slider-1.jpg');
       
     }
     20%{
         opacity: 1;
-        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c),url('/slider/slider-1.jpg');
+        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c),url('./slider-1.jpg');
         
     }
     40%{
         opacity: 1;
-        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c), url('/slider/slider-2.jpg');
+        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c), url('./slider-2.jpg');
         
     }
     60%{
         opacity: 1;
-        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c),  url('/slider/slider-3.jpg');
+        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c),  url('./slider-3.jpg');
         
     }
     80%{
         opacity: 1;
-        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c), url('/slider/slider-4.JPG');
+        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c), url('./slider-4.JPG');
         
     }
     100%{
         opacity: 1;
-        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c), url('/slider/slider-4.jpg');
+        background-image: linear-gradient(to bottom, #000000fa, #00000000, #00000000, #0c0c0c), url('./slider-4.jpg');
         
     }
 }
